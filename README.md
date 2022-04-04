@@ -10,7 +10,7 @@ Here's a link to my personal Notion with a brief cheatsheet I wrote with the mor
 Here's a guide on how to install it on your system using Oh My Zsh: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 - `zsh-z` plugin: it is a command line tool that allows you to jump quickly to directories that you have visited in the past.  
 Here's a guide on how to install it on your system using Oh My Zsh: https://github.com/agkozak/zsh-z#for-oh-my-zsh-users
-`spaceship` theme: my theme of choice since it is easy to setup and it can be customized with no efforts.  
+- `spaceship` theme: my theme of choice since it is easy to setup and it can be customized with no efforts.  
 Here's a guide on how to install it on your system using Oh My Zsh: https://github.com/spaceship-prompt/spaceship-prompt#oh-my-zsh
 
 ## Aliases
